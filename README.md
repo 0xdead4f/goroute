@@ -35,11 +35,12 @@ Usage of goroute:
   -t int
         Number of concurrent threads (default 10)
   -proxy string
-        Proxy URL in the format https://IP:PORT
+        [OPTIONAL] Proxy URL in the format https://IP:PORT
   -headers string
-        JSON file containing custom headers
+        [OPTIONAL] JSON file containing custom headers
   -v 
-        Verbose mode: show all request details
+        [OPTIONAL] Verbose mode: show all request details
+Filter:
   -fcl int
         Filter responses by Content-Length (default 0)
 ```
