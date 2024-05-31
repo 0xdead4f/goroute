@@ -12,7 +12,7 @@ You may ask, what is this and why it is exist in the first place. Well it transl
 To install GOROUTE, you need to have Go installed. You can then run:
 
 ```bash
-go install github.com/0xdead4f/goroute
+go install github.com/0xdead4f/goroute@latest
 ```
 
 ## Usage
